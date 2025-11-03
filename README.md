@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alain, 
+<h1>Hi, I'm Alain
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
