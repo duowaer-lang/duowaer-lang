@@ -3,6 +3,6 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating your First Storage Account within a Resource Group in Azure](https://github.com/duowaer-lang/Storage-Account-Creation)
+  - [Creating your First Virtual Machine Azure](https://github.com/duowaer-lang/Storage-Account-Creation)
   
 
